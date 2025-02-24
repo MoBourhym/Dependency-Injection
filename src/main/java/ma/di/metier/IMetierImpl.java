@@ -1,8 +1,12 @@
 package ma.di.metier;
 
 import ma.di.dao.IDao;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component("metier")
 public class IMetierImpl implements IMetier{
+    @Autowired()
     private IDao dao;
     @Override
     public double calcul() {

@@ -29,3 +29,12 @@
 
 
 ![Console](resources/captures/XMLDI.png)
+
+
+
+## 4- Spring Annotations Injection:
+![Example](resources/captures/DIAnnotation.png)
+
+
+
+![Console](resources/captures/DIANN.png)
