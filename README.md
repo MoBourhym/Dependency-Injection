@@ -16,3 +16,16 @@
 
 
 ![Console](resources/captures/DI.png)
+
+
+## 3- Spring XML Injection:
+![XML](resources/captures/SpringXml.png)
+
+
+
+
+
+![Exmple](resources/captures/XmlDpendencyInj.png)
+
+
+![Console](resources/captures/XMLDI.png)
