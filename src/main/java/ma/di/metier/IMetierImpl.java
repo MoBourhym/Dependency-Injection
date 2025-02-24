@@ -8,7 +8,7 @@ public class IMetierImpl implements IMetier{
     public double calcul() {
         double data= dao.getData();
         double result=data*data;
-        return 0;
+        return result;
     }
 
     public IMetierImpl() {
